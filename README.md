@@ -1,9 +1,9 @@
-Spaces-For-Children
+Batalha Naval
 
-Trabalho Prático - Programação Web (C# - ASP.NET MVC) Consultar os ficheiros Relatório.pdf e Enunciado.pdf para mais informações
+Trabalho Prático - Arquitecturas Móveis (Android - Java)
 
-Sistema Operativo usado: Windows 10 build 1709 - Fall Creators Update x64
+Sistema Operativo usado: macOS High Sierra
 
-IDE usado: Visual Studio 2015, .NET Framework 4.6.1
+IDE usado: Android Studio 3
 
 DATA ORIGINAL: Ano lectivo 2017/2018
